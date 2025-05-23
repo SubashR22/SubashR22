@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subash</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Crafting Scalable Web Applications with Spring Boot & Modern Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subashr22&label=Profile%20views&color=0e75b6&style=flat" alt="subashr22" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subashr22" alt="subashr22" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-60031986408.development.catalystserverless.in/app/index.html](https://portfolio-60031986408.development.catalystserverless.in/app/index.html)
