@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subashr22" alt="subashr22" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-60031986408.development.catalystserverless.in/app/index.html](https://portfolio-60031986408.development.catalystserverless.in/app/index.html)
+-👨‍💻 All of my projects are available in my [Portfolio](https://portfolio-60031986408.development.catalystserverless.in/app/index.html)
 
 - 📫 How to reach me **subashravi2203@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L2crL2zy8yGUv37lv_ZhrXQX8ZTFN0DS/view?usp=sharing](Here's my resume)
+-📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1L2crL2zy8yGUv37lv_ZhrXQX8ZTFN0DS/view?usp=sharing)
 
 - ⚡ Fun fact **Yes, I talk to my code. And sometimes… it listens**
 
