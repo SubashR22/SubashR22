@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **subashravi2203@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iJuVcyd-o38j79bLmrnXOP1i81B4W3LO/view?usp=sharing](Here's my resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L2crL2zy8yGUv37lv_ZhrXQX8ZTFN0DS/view?usp=sharing](Here's my resume)
 
 - ⚡ Fun fact **Yes, I talk to my code. And sometimes… it listens**
 
